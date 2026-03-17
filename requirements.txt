@@ -1,0 +1,8 @@
+django~=5.2
+django-stubs
+django-stubs-ext
+django-ninja~=1.6
+faker~=40.11
+pytest~=9.0
+pytest-django
+django-extensions

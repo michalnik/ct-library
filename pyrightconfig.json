@@ -1,0 +1,11 @@
+{
+  "typeCheckingMode": "standard",
+  "reportMissingTypeStubs": false,
+  "reportUnknownVariableType": false,
+  "reportUnknownParameterType": false,
+  "reportUnknownArgumentType": false,
+  "reportUnknownMemberType": false,
+  "reportOptionalMemberAccess": "error",
+  "reportOptionalSubscript": "error",
+  "reportImplicitOverride": true
+}
